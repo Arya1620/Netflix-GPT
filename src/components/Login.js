@@ -14,6 +14,7 @@ const Login = () => {
 
     const message = checkValidaData(email.current.value, email.current.value, name.current.value);
     setErrorMessage(message);
+    console.log(message);
   };
 
   const toggleSignInForm = () => {

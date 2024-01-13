@@ -5,6 +5,7 @@
 - Header
 - Login Form
 - SignUp Form
+- Validated the data
 
 # Features:
 
